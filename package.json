@@ -1,0 +1,24 @@
+{
+  "name": "guiasc",
+  "version": "1.0.0",
+  "description": "Guia da Testo SC - Performance monitoring with Vercel Speed Insights",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simuladordosecerta/GuiaSC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simuladordosecerta/GuiaSC/issues"
+  },
+  "homepage": "https://github.com/simuladordosecerta/GuiaSC#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
